@@ -1,5 +1,4 @@
 # rules-
-creating 
 company
 laptop
 
