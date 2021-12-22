@@ -2,3 +2,4 @@
 company
 laptop
 software
+hardware
